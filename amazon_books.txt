@@ -1,0 +1,10 @@
+﻿Software Testing: An ISTQB-BCS Certified Tester Foundation Level guide (CTFL v4.0) - Fifth edition
+Software Testing: Easy Learning Approach
+Failure Modes Effects and Criticality Analysis (FMECA): Handbook (Non-Functional Testing 2)
+Taking Testing Seriously: The Rapid Software Testing Approach
+Non-functional testing The Ultimate Step-By-Step Guide
+Software Quality Assurance and Testing for Beginners: Uncovering Software Quality
+Black-Box Testing: Techniques for Functional Testing of Software and Systems
+100 Real-Time QA Interview Scenarios with Answers: Manual, API, Database, Mobile, Agile and Non-Functional Testing Questions for Software Testers
+The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing
+The Self-Taught Software Tester A Step By Step Guide to Learn Software Testing Using Real-Life Project
